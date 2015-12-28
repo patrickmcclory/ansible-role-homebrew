@@ -35,4 +35,4 @@
   homebrew_tap: tap={{item}} state=present
   with_items: 
     - homebrew/services
-    - caskroom/fonts
+    - patrickmcclory/homebrew-fonts
